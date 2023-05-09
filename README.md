@@ -12,7 +12,7 @@ A brief portfolio of projects I have undertaken for both academic and personal d
 
 Brief Description
 
-## [Turbulent Fluid Flow Pipe Losses]
+## [Turbulent Fluid Flow Pipe Losses](https://github.com/seanwarner97/Project_Portfolio/tree/main/EngineeringProblems/PressureLosses)
 
 Brief Description
 
