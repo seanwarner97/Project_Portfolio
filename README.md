@@ -2,13 +2,8 @@
 
 A brief portfolio of projects I have undertaken for both academic and personal development purposes.
 
-## Contents
-- Engineering Projects
-- Projectile Trajectory Optimization
-- Turbulent Fluid Flow Pipe Losses
-
 # Engineering Projects 
-## [Projectile Trajectory Optimization]
+## [Projectile Trajectory Optimization](https://github.com/seanwarner97/Project_Portfolio/tree/main/EngineeringProblems/ProjectileTrajectory)
 
 Brief Description
 
