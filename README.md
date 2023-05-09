@@ -5,8 +5,9 @@
 A brief portfolio of projects I have undertaken for both academic and personal development purposes.
 
 ## Contents
--
--
+- Engineering Projects
+- Projectile Trajectory Optimization
+- Turbulent Fluid Flow Pipe Losses
 -
 
 
