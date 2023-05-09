@@ -16,5 +16,15 @@ Both gradient based and genetic optimization are utilised from SciPy and Matplot
 
 ## [Turbulent Fluid Flow Pipe Losses](https://github.com/seanwarner97/Project_Portfolio/tree/main/EngineeringProblems/PressureLosses)
 
+A short project using a Newton Raphson Itteration to resolve fluid flow problems that cannot be resolved analytically. 
+
+Project takes input data with fluid/pipe properties and recorded fluid velocities, and then outputs losses due to friction and a Moody diagram for the fluid.
+
+Matplotlib is used to create Moody diagrams.
+
+
+
+
+
 
 
